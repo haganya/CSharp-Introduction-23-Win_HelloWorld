@@ -1,0 +1,9 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-1Win_HelloWorld\20170810-1Win_HelloWorld\bin\Debug\20170810-1Win_HelloWorld.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-1Win_HelloWorld\20170810-1Win_HelloWorld\bin\Debug\20170810-1Win_HelloWorld.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-1Win_HelloWorld\20170810-1Win_HelloWorld\bin\Debug\20170810-1Win_HelloWorld.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-1Win_HelloWorld\20170810-1Win_HelloWorld\obj\Debug\20170810-1Win_HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-1Win_HelloWorld\20170810-1Win_HelloWorld\obj\Debug\_20170810_1Win_HelloWorld.Form1.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-1Win_HelloWorld\20170810-1Win_HelloWorld\obj\Debug\_20170810_1Win_HelloWorld.Properties.Resources.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-1Win_HelloWorld\20170810-1Win_HelloWorld\obj\Debug\20170810-1Win_HelloWorld.csproj.GenerateResource.Cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-1Win_HelloWorld\20170810-1Win_HelloWorld\obj\Debug\20170810-1Win_HelloWorld.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170810-1Win_HelloWorld\20170810-1Win_HelloWorld\obj\Debug\20170810-1Win_HelloWorld.pdb
